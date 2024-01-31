@@ -12,17 +12,31 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top" align="center">
+      <h3 align="center">Project Carver</h3>
+        <br />
+      <a target="_blank" href="https://www.projectcarver.com">
+            <img src="https://github.com/rennacarver/rennacarver/blob/main/Project%20Carver.gif?raw=true" width="50%"  alt="Radians Animation Library"/>
+        </a>
+          <br />
+          <p align="center">
+            <a align="center" href="https://www.projectcarver.com" target="_blank">Project Carver Website</a>
+          </p>
+        <p align="left"><strong>CSS3, HTML5, Javscript, Powerpoint</strong> - Blog, Tutoring, Freelance Webdev Services, Free Math Lessons, Animation Libraries, Worksheets and more...</p>
+    </td>
+  <td width="50%" valign="top" align="center">
       <h3 align="center">Reading List App</h3>
         <br />
         <a target="_blank" href="https://rennacarver.github.io/Reading-List-App/">
-            <img align="center" style="width: 50%; height: auto;" src="https://github.com/rennacarver/rennacarver/blob/main/Reading-List-App_medium.gif?raw=true" width="100%" alt="Reading List App"/>
+          <img src="https://github.com/rennacarver/rennacarver/blob/main/Reading-List-App_medium.gif?raw=true" width="50%"  alt="Reading List App"/>
         </a>
         <br />
-        <p align="center"> 
-          <a href="https://rennacarver.github.io/Reading-List-App/" target="_blank">Reading List App</a>
-        </p>
+        <p align="center">
+            <a align="center" href="https://rennacarver.github.io/Reading-List-App/" target="_blank">Reading List App</a>
+          </p>
         <p align="left"><strong>Javascript, HTML5, CSS3</strong> - Personal reading list powered by the Open Library API</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" align="center">
       <h3 align="center">Radians Animation Library</h3>
         <br />
@@ -31,7 +45,7 @@
         </a>
           <br />
           <p align="center">
-          <a align="center" href="https://github.com/rennacarver/rennacarver/blob/main/Radians%20Animation%20Library.gif?raw=true" target="_blank">Radians Animation Library</a>
+          <a align="center" href="https://github.com/rennacarver/ProjectCarver" target="_blank">Radians Animation Library</a>
   </a>
       </p>
         <p align="left"><strong>Python, Manim Library</strong> - Animation Library for teaching radians [deprecated]</p>
