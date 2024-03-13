@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [projectcarver.com/portfolio](https://www.projectcarver.com/portfolio)
 
-- 📝 I regularly write articles on [projectcarver.com/blog](https://www.projectcarver.com/blog)
+- 📝 I regularly write articles on [projectcarver.com/](https://www.projectcarver.com/)
 
 <h1 align="center">Projects</h1>
 
