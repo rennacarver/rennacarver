@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Renna</h1>
 <h3 align="center">A fullstack developer from Los Angeles</h3>
 
-- 🌱 I’m currently learning **Node.js, React, MongoDB**
+- 🌱 I’m currently learning **Node.js, React, MongoDB, Three.js**
 
 - 👨‍💻 All of my projects are available at [projectcarver.com/portfolio](https://www.projectcarver.com/portfolio)
 
 - 📝 I regularly write articles on [projectcarver.com/](https://www.projectcarver.com/)
+
+- 🚧 I'm currently working on [KnowNative](https://github.com/AbigailDawson/knownative)
 
 <h1 align="center">Projects</h1>
 
