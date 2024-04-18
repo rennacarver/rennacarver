@@ -40,6 +40,19 @@
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
+      <h3 align="center">KnowNative</h3>
+        <br />
+      <a target="_blank" href="https://github.com/AbigailDawson/knownative">
+            <img src="https://github.com/rennacarver/rennacarver/assets/87547832/c9039d79-8946-4416-b43a-c7ee2a26dcfa" width="50%"  alt="KnowNative App"/>
+        </a>
+          <br />
+          <p align="center">
+          <a align="center" href="https://github.com/AbigailDawson/knownative" target="_blank">KnowNative Chinese Learning App</a>
+  </a>
+      </p>
+        <p align="left"><strong>React, Express, Node, MongoDB</strong> - KnowNative is a web application for learners of traditional Chinese to improve their reading comprehension through studying native language texts.</p>
+    </td>
+  <td width="50%" valign="top" align="center">
       <h3 align="center">Radians Animation Library</h3>
         <br />
       <a target="_blank" href="https://github.com/rennacarver/ManimRadiansAnimationLibrary">
