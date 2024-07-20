@@ -43,7 +43,7 @@
       <h3 align="center">KnowNative</h3>
         <br />
       <a target="_blank" href="https://github.com/AbigailDawson/knownative">
-            <img src="https://github.com/rennacarver/rennacarver/assets/87547832/c9039d79-8946-4416-b43a-c7ee2a26dcfa" width="50%"  alt="KnowNative App"/>
+            <img src="https://github.com/user-attachments/assets/b17ad415-e0c4-4749-b725-8610684d95e2" width="50%"  alt="KnowNative App"/>
         </a>
           <br />
           <p align="center">
