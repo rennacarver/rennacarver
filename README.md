@@ -62,7 +62,22 @@
           <br />
           <p align="center">
           <a align="center" href="https://github.com/rennacarver/ManimRadiansAnimationLibrary" target="_blank">Radians Animation Library</a>
-  </a>
+        </a>
+      </p>
+        <p align="left"><strong>Python, Manim Library</strong> - Animation Library for teaching radians [deprecated]</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center">Radians Animation Library</h3>
+        <br />
+      <a target="_blank" href="https://github.com/rennacarver/ManimRadiansAnimationLibrary">
+            <img src="https://github.com/rennacarver/rennacarver/blob/main/Radians%20Animation%20Library.gif?raw=true" width="50%"  alt="Radians Animation Library"/>
+        </a>
+          <br />
+          <p align="center">
+          <a align="center" href="https://github.com/rennacarver/ManimRadiansAnimationLibrary" target="_blank">Radians Animation Library</a>
+        </a>
       </p>
         <p align="left"><strong>Python, Manim Library</strong> - Animation Library for teaching radians [deprecated]</p>
     </td>
