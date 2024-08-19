@@ -54,17 +54,17 @@
     </td>
     
   <td width="50%" valign="top" align="center">
-      <h3 align="center">Radians Animation Library</h3>
+      <h3 align="center">Todo List App</h3>
         <br />
-      <a target="_blank" href="https://github.com/rennacarver/ManimRadiansAnimationLibrary">
-            <img src="https://github.com/rennacarver/rennacarver/blob/main/Radians%20Animation%20Library.gif?raw=true" width="50%"  alt="Radians Animation Library"/>
+      <a target="_blank" href="https://github.com/rennacarver/todo-list-app">
+            <img src="https://private-user-images.githubusercontent.com/87547832/358990434-5b89df51-c4dc-4676-b4d9-6e832e1fcfdb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQwNDY2OTMsIm5iZiI6MTcyNDA0NjM5MywicGF0aCI6Ii84NzU0NzgzMi8zNTg5OTA0MzQtNWI4OWRmNTEtYzRkYy00Njc2LWI0ZDktNmU4MzJlMWZjZmRiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDA1NDYzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUwNTU0YThlMzJkYjczOWE1MDFlYjUwMzM5ODg3ZDcxNTg1MGU3ZWRkNjlmYjQxMTQ2OGVlZGMzY2ViZWY1ZjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ld-qFbO4JNyFuponW-9Uqq5mDZ7Ku0jMdEBdfObxOIA" width="50%"  alt="Radians Animation Library"/>
         </a>
           <br />
           <p align="center">
-          <a align="center" href="https://github.com/rennacarver/ManimRadiansAnimationLibrary" target="_blank">Radians Animation Library</a>
+          <a align="center" href="https://github.com/rennacarver/todo-list-app" target="_blank">Todo List App</a>
         </a>
       </p>
-        <p align="left"><strong>Python, Manim Library</strong> - Animation Library for teaching radians [deprecated]</p>
+        <p align="left"><strong>Passport.js, EJS, Node, Express</strong> - Personal todo list powered by Passport.js</p>
     </td>
   </tr>
   <tr>
