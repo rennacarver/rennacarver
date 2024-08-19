@@ -25,7 +25,22 @@
           </p>
         <p align="left"><strong>CSS3, HTML5, Javscript, Powerpoint</strong> - Blog, Tutoring, Freelance Webdev Services, Free Math Lessons, Animation Libraries, Worksheets and more...</p>
     </td>
-  <td width="50%" valign="top" align="center">
+      <td width="50%" valign="top" align="center">
+          <h3 align="center">KnowNative</h3>
+            <br />
+          <a target="_blank" href="https://github.com/AbigailDawson/knownative">
+                <img src="https://github.com/user-attachments/assets/b17ad415-e0c4-4749-b725-8610684d95e2" width="50%"  alt="KnowNative App"/>
+            </a>
+              <br />
+              <p align="center">
+              <a align="center" href="https://github.com/AbigailDawson/knownative" target="_blank">KnowNative Chinese Learning App</a>
+            </a>
+          </p>
+            <p align="left"><strong>React, Express, Node, MongoDB</strong> - KnowNative is a web application for learners of traditional Chinese to improve their reading comprehension through studying native language texts.</p>
+        </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
       <h3 align="center">Reading List App</h3>
         <br />
         <a target="_blank" href="https://github.com/rennacarver/Reading-List-App">
@@ -37,21 +52,7 @@
           </p>
         <p align="left"><strong>Javascript, HTML5, CSS3</strong> - Personal reading list powered by the Open Library API</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3 align="center">KnowNative</h3>
-        <br />
-      <a target="_blank" href="https://github.com/AbigailDawson/knownative">
-            <img src="https://github.com/user-attachments/assets/b17ad415-e0c4-4749-b725-8610684d95e2" width="50%"  alt="KnowNative App"/>
-        </a>
-          <br />
-          <p align="center">
-          <a align="center" href="https://github.com/AbigailDawson/knownative" target="_blank">KnowNative Chinese Learning App</a>
-  </a>
-      </p>
-        <p align="left"><strong>React, Express, Node, MongoDB</strong> - KnowNative is a web application for learners of traditional Chinese to improve their reading comprehension through studying native language texts.</p>
-    </td>
+    
   <td width="50%" valign="top" align="center">
       <h3 align="center">Radians Animation Library</h3>
         <br />
