@@ -72,7 +72,7 @@
       <h3 align="center">Radians Animation Library</h3>
         <br />
       <a target="_blank" href="https://github.com/rennacarver/ManimRadiansAnimationLibrary">
-            <img src="https://github.com/rennacarver/rennacarver/blob/main/Radians%20Animation%20Library.gif?raw=true" width="50%"  alt="Radians Animation Library"/>
+            <img src="https://github.com/user-attachments/assets/53d72d63-fdda-4302-b052-0ecb4bb3ff28" width="50%"  alt="Radians Animation Library"/>
         </a>
           <br />
           <p align="center">
