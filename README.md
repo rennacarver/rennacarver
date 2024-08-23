@@ -41,6 +41,33 @@
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
+      <h3 align="center">Combinatorics Visualizer</h3>
+        <br />
+        <a target="_blank" href="https://github.com/rennacarver/Combinations-Visualizer">
+          <img src="https://github.com/user-attachments/assets/890b6395-7266-48e7-9958-8b90fea84975" width="50%"  alt="combinatorics visualizer app"/>
+        </a>
+        <br />
+        <p align="center">
+            <a align="center" href="https://github.com/rennacarver/Combinations-Visualizer" target="_blank">Combinatorics Visualizer</a>
+          </p>
+        <p align="left"><strong>React, HTML, CSS</strong> - Generate a list of permutations for any given string</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+        <h3 align="center">Todo List App</h3>
+          <br />
+        <a target="_blank" href="https://github.com/rennacarver/todo-list-app">
+              <img src="https://github.com/user-attachments/assets/53d72d63-fdda-4302-b052-0ecb4bb3ff28" width="50%"  alt="todo list app"/>
+          </a>
+            <br />
+            <p align="center">
+            <a align="center" href="https://github.com/rennacarver/todo-list-app" target="_blank">Todo List App</a>
+          </a>
+        </p>
+          <p align="left"><strong>Passport.js, EJS, Node, Express</strong> - Personal todo list powered by Passport.js</p>
+      </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
       <h3 align="center">Reading List App</h3>
         <br />
         <a target="_blank" href="https://github.com/rennacarver/Reading-List-App">
@@ -52,22 +79,6 @@
           </p>
         <p align="left"><strong>Javascript, HTML5, CSS3</strong> - Personal reading list powered by the Open Library API</p>
     </td>
-    
-  <td width="50%" valign="top" align="center">
-      <h3 align="center">Todo List App</h3>
-        <br />
-      <a target="_blank" href="https://github.com/rennacarver/todo-list-app">
-            <img src="https://github.com/user-attachments/assets/53d72d63-fdda-4302-b052-0ecb4bb3ff28" width="50%"  alt="Radians Animation Library"/>
-        </a>
-          <br />
-          <p align="center">
-          <a align="center" href="https://github.com/rennacarver/todo-list-app" target="_blank">Todo List App</a>
-        </a>
-      </p>
-        <p align="left"><strong>Passport.js, EJS, Node, Express</strong> - Personal todo list powered by Passport.js</p>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top" align="center">
       <h3 align="center">Radians Animation Library</h3>
         <br />
