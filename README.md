@@ -44,7 +44,7 @@
       <h3 align="center">Combinatorics Visualizer</h3>
         <br />
         <a target="_blank" href="https://github.com/rennacarver/Combinations-Visualizer">
-          <img src="https://github.com/user-attachments/assets/890b6395-7266-48e7-9958-8b90fea84975" width="50%"  alt="combinatorics visualizer app"/>
+          <img src="https://github.com/user-attachments/assets/eee1e92c-8824-4836-8ad0-2653aee079cd" width="50%"  alt="combinatorics visualizer app"/>
         </a>
         <br />
         <p align="center">
