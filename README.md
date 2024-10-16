@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [projectcarver.com/](https://www.projectcarver.com/)
 
-- 🚧 I'm currently working on [KnowNative](https://github.com/AbigailDawson/knownative)
+- 🚧 I'm currently working on [KnowNative](https://github.com/AbigailDawson/knownative), [Combinatorics Visualizer](https://github.com/rennacarver/Combinatorics-Visualizer)
 
 <h1 align="center">Projects</h1>
 
