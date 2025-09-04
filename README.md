@@ -26,17 +26,17 @@
         <p align="left"><strong>CSS3, HTML5, Javscript, Powerpoint</strong> - Blog, Tutoring, Freelance Webdev Services, Free Math Lessons, Animation Libraries, Worksheets and more...</p>
     </td>
       <td width="50%" valign="top" align="center">
-          <h3 align="center">KnowNative</h3>
+          <h3 align="center">Related Rates Visualizer</h3>
             <br />
-          <a target="_blank" href="https://github.com/AbigailDawson/knownative">
-                <img src="https://github.com/user-attachments/assets/b17ad415-e0c4-4749-b725-8610684d95e2" width="50%"  alt="KnowNative App"/>
+          <a target="_blank" href="https://github.com/rennacarver/Cone-Related-Rates-Visualizer">
+                <img src="[https://github.com/user-attachments/assets/b17ad415-e0c4-4749-b725-8610684d95e2](https://private-user-images.githubusercontent.com/87547832/484426253-d23f2c4f-792b-472a-a4d6-bedab591a24e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY5NDgyODUsIm5iZiI6MTc1Njk0Nzk4NSwicGF0aCI6Ii84NzU0NzgzMi80ODQ0MjYyNTMtZDIzZjJjNGYtNzkyYi00NzJhLWE0ZDYtYmVkYWI1OTFhMjRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTA0VDAxMDYyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA4OGQ4MDlhMTExNzkyMWI1MmQ5MzM3YzZiYjdhMGI0M2I4Nzc3NmYyMTczODVhMTIwNmViNjI5NzUzZTM3YzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.d5YPXGOPbh17NLw0F3ilQEY_84mV8MySNf3mAjMtKs8)" width="50%"  alt="Related Rates Visualizer App"/>
             </a>
               <br />
               <p align="center">
-              <a align="center" href="https://github.com/AbigailDawson/knownative" target="_blank">KnowNative Chinese Learning App</a>
+              <a align="center" href="https://github.com/rennacarver/Cone-Related-Rates-Visualizer" target="_blank">Related Rates Visualizer</a>
             </a>
           </p>
-            <p align="left"><strong>React, Express, Node, MongoDB</strong> - KnowNative is a web application for learners of traditional Chinese to improve their reading comprehension through studying native language texts.</p>
+            <p align="left"><strong>three.js, Desmos API, JS, HTML, CSS</strong> - Explore differential equations through a classic Calculus problem — the filling of a cone.</p>
         </td>
   </tr>
   <tr>
@@ -53,18 +53,18 @@
         <p align="left"><strong>React, HTML, CSS</strong> - Generate a list of permutations for any given string</p>
     </td>
     <td width="50%" valign="top" align="center">
-        <h3 align="center">Todo List App</h3>
-          <br />
-        <a target="_blank" href="https://github.com/rennacarver/todo-list-app">
-              <img src="https://github.com/user-attachments/assets/53d72d63-fdda-4302-b052-0ecb4bb3ff28" width="50%"  alt="todo list app"/>
-          </a>
+          <h3 align="center">KnowNative</h3>
             <br />
-            <p align="center">
-            <a align="center" href="https://github.com/rennacarver/todo-list-app" target="_blank">Todo List App</a>
-          </a>
-        </p>
-          <p align="left"><strong>Passport.js, EJS, Node, Express</strong> - Personal todo list powered by Passport.js</p>
-      </td>
+          <a target="_blank" href="https://github.com/AbigailDawson/knownative">
+                <img src="https://github.com/user-attachments/assets/b17ad415-e0c4-4749-b725-8610684d95e2" width="50%"  alt="KnowNative App"/>
+            </a>
+              <br />
+              <p align="center">
+              <a align="center" href="https://github.com/AbigailDawson/knownative" target="_blank">KnowNative Chinese Learning App</a>
+            </a>
+          </p>
+            <p align="left"><strong>React, Express, Node, MongoDB</strong> - KnowNative is a web application for learners of traditional Chinese to improve their reading comprehension through studying native language texts.</p>
+        </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
@@ -80,18 +80,18 @@
         <p align="left"><strong>Javascript, HTML5, CSS3</strong> - Personal reading list powered by the Open Library API</p>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3 align="center">Radians Animation Library</h3>
-        <br />
-      <a target="_blank" href="https://github.com/rennacarver/ManimRadiansAnimationLibrary">
-            <img src="https://github.com/user-attachments/assets/bf1e53ba-6535-4d7b-990a-a143b6ad82ec" width="50%"  alt="Radians Animation Library"/>
-        </a>
+        <h3 align="center">Todo List App</h3>
           <br />
-          <p align="center">
-          <a align="center" href="https://github.com/rennacarver/ManimRadiansAnimationLibrary" target="_blank">Radians Animation Library</a>
-        </a>
-      </p>
-        <p align="left"><strong>Python, Manim Library</strong> - Animation Library for teaching radians [deprecated]</p>
-    </td>
+        <a target="_blank" href="https://github.com/rennacarver/todo-list-app">
+              <img src="https://github.com/user-attachments/assets/53d72d63-fdda-4302-b052-0ecb4bb3ff28" width="50%"  alt="todo list app"/>
+          </a>
+            <br />
+            <p align="center">
+            <a align="center" href="https://github.com/rennacarver/todo-list-app" target="_blank">Todo List App</a>
+          </a>
+        </p>
+          <p align="left"><strong>Passport.js, EJS, Node, Express</strong> - Personal todo list powered by Passport.js</p>
+      </td>
   </tr>
 </table>
 
