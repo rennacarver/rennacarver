@@ -36,7 +36,7 @@
               <a align="center" href="https://github.com/rennacarver/Cone-Related-Rates-Visualizer" target="_blank">Related Rates Visualizer</a>
             </a>
           </p>
-            <p align="left"><strong>three.js, Desmos API, JS, HTML, CSS</strong> - Explore differential equations through a classic Calculus problem — the filling of a cone.</p>
+            <p align="left"><strong>three.js, Desmos API, JS, HTML, CSS</strong> - Explore differential equations through a classic calculus problem — the filling of a cone.</p>
         </td>
   </tr>
   <tr>
