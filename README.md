@@ -29,7 +29,7 @@
           <h3 align="center">Related Rates Visualizer</h3>
             <br />
           <a target="_blank" href="https://github.com/rennacarver/Cone-Related-Rates-Visualizer">
-                <img src="[https://github.com/user-attachments/assets/b17ad415-e0c4-4749-b725-8610684d95e2](https://private-user-images.githubusercontent.com/87547832/484426253-d23f2c4f-792b-472a-a4d6-bedab591a24e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY5NDgyODUsIm5iZiI6MTc1Njk0Nzk4NSwicGF0aCI6Ii84NzU0NzgzMi80ODQ0MjYyNTMtZDIzZjJjNGYtNzkyYi00NzJhLWE0ZDYtYmVkYWI1OTFhMjRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTA0VDAxMDYyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA4OGQ4MDlhMTExNzkyMWI1MmQ5MzM3YzZiYjdhMGI0M2I4Nzc3NmYyMTczODVhMTIwNmViNjI5NzUzZTM3YzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.d5YPXGOPbh17NLw0F3ilQEY_84mV8MySNf3mAjMtKs8)" width="50%"  alt="Related Rates Visualizer App"/>
+                <img src="https://github.com/user-attachments/assets/44f63fa1-28bb-4c76-8874-f1b97c1aef2f" width="50%"  alt="Related Rates Visualizer App"/>
             </a>
               <br />
               <p align="center">
