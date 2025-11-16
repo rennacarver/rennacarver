@@ -87,7 +87,7 @@
           </a>
             <br />
             <p align="center">
-            <a align="center" href="https://github.com/rennacarver/student-assignment-tracker" target="_blank">Todo List App</a>
+            <a align="center" href="https://github.com/rennacarver/student-assignment-tracker" target="_blank">Student Assignment Tracker</a>
           </a>
         </p>
           <p align="left"><strong>Ruby on Rails, SQLite, Tailwind CSS</strong> - Student Assignment Tracker powered by Rails</p>
