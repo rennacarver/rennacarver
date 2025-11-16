@@ -80,17 +80,17 @@
         <p align="left"><strong>Javascript, HTML5, CSS3</strong> - Personal reading list powered by the Open Library API</p>
     </td>
     <td width="50%" valign="top" align="center">
-        <h3 align="center">Todo List App</h3>
+        <h3 align="center">Student Assignment Tracker</h3>
           <br />
-        <a target="_blank" href="https://github.com/rennacarver/todo-list-app">
-              <img src="https://github.com/user-attachments/assets/53d72d63-fdda-4302-b052-0ecb4bb3ff28" width="50%"  alt="todo list app"/>
+        <a target="_blank" href="rennacarver/student-assignment-tracker">
+              <img src="https://github.com/user-attachments/assets/d6032f3b-2810-4192-a17b-c3b8a5d43eb5" width="50%"  alt="todo list app"/>
           </a>
             <br />
             <p align="center">
-            <a align="center" href="https://github.com/rennacarver/todo-list-app" target="_blank">Todo List App</a>
+            <a align="center" href="https://github.com/rennacarver/student-assignment-tracker" target="_blank">Todo List App</a>
           </a>
         </p>
-          <p align="left"><strong>Passport.js, EJS, Node, Express</strong> - Personal todo list powered by Passport.js</p>
+          <p align="left"><strong>Ruby on Rails, SQLite, Tailwind CSS</strong> - Student Assignment Tracker powered by Rails</p>
       </td>
   </tr>
 </table>
