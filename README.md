@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Renna</h1>
 <h3 align="center">A fullstack developer from Los Angeles</h3>
 
-- 🌱 I’m currently learning **three.js**
+- 🌱 I’m currently learning **Next.js, Typescript, Fabric.js**
 
 - 👨‍💻 All of my projects are available at [projectcarver.com/portfolio](https://www.projectcarver.com/portfolio)
 
 - 📝 I regularly write articles on [projectcarver.com/](https://www.projectcarver.com/)
 
-- 🚧 I'm currently working on a Related Rates Visualizer
+- 🚧 I'm currently working on the BioBlanks Product Configurator
 
 <h1 align="center">Projects</h1>
 
@@ -68,16 +68,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3 align="center">Reading List App</h3>
+      <h3 align="center">BioBlanks Builder</h3>
         <br />
-        <a target="_blank" href="https://github.com/rennacarver/Reading-List-App">
-          <img src="https://github.com/rennacarver/rennacarver/blob/main/Reading-List-App_medium.gif?raw=true" width="50%"  alt="Reading List App"/>
+        <a target="_blank" href="https://github.com/rennacarver/BioBlanks-Builder">
+          <img src="https://github.com/user-attachments/assets/38642a99-0193-4d4e-b30e-9ec794a19097" width="50%"  alt="Reading List App"/>
         </a>
         <br />
         <p align="center">
-            <a align="center" href="https://github.com/rennacarver/Reading-List-App" target="_blank">Reading List App</a>
+            <a align="center" href="https://github.com/rennacarver/BioBlanks-Builder" target="_blank">BioBlanks Builder</a>
           </p>
-        <p align="left"><strong>Javascript, HTML5, CSS3</strong> - Personal reading list powered by the Open Library API</p>
+        <p align="left"><strong>Next.js, Typescript, PostgreSQL, Tailwind, Fabric.js</strong> - B2B Product Configuator</p>
     </td>
     <td width="50%" valign="top" align="center">
         <h3 align="center">Student Assignment Tracker</h3>
