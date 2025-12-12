@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/580cd6fe-3360-4794-ac43-02fe9e0bf320
 <h1 align="center">Hi 👋, I'm Renna</h1>
 <h3 align="center">A fullstack developer from Los Angeles</h3>
 
@@ -58,8 +56,6 @@ https://github.com/user-attachments/assets/580cd6fe-3360-4794-ac43-02fe9e0bf320
           <h3 align="center">KnowNative</h3>
             <br />
           <a target="_blank" href="https://github.com/AbigailDawson/knownative">
-            ![Bioblanks App](https://github.com/user-attachments/assets/1e2f2949-f286-4002-9e6d-43337f26d668)
-
                 <img src="https://github.com/user-attachments/assets/1e2f2949-f286-4002-9e6d-43337f26d668" width="50%"  alt="KnowNative App"/>
             </a>
               <br />
