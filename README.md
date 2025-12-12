@@ -56,7 +56,7 @@
           <h3 align="center">KnowNative</h3>
             <br />
           <a target="_blank" href="https://github.com/AbigailDawson/knownative">
-                <img src="https://github.com/user-attachments/assets/1e2f2949-f286-4002-9e6d-43337f26d668" width="50%"  alt="KnowNative App"/>
+                <img src="https://github.com/user-attachments/assets/b17ad415-e0c4-4749-b725-8610684d95e2" width="50%"  alt="KnowNative App"/>
             </a>
               <br />
               <p align="center">
@@ -71,7 +71,7 @@
       <h3 align="center">BioBlanks Builder</h3>
         <br />
         <a target="_blank" href="https://github.com/rennacarver/BioBlanks-Builder">
-          <img src="https://github.com/user-attachments/assets/38642a99-0193-4d4e-b30e-9ec794a19097" width="50%"  alt="Reading List App"/>
+          <img src="https://github.com/user-attachments/assets/1e2f2949-f286-4002-9e6d-43337f26d668" width="50%"  alt="Reading List App"/>
         </a>
         <br />
         <p align="center">
