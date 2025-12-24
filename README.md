@@ -71,7 +71,7 @@
       <h3 align="center">BioBlanks Builder</h3>
         <br />
         <a target="_blank" href="https://github.com/rennacarver/BioBlanks-Builder">
-          <img src="https://github.com/user-attachments/assets/1e2f2949-f286-4002-9e6d-43337f26d668" width="50%"  alt="Reading List App"/>
+          <img src="https://github.com/user-attachments/assets/9d9f27ba-5788-4bfd-a542-3cab77452a00" width="50%"  alt="Reading List App"/>
         </a>
         <br />
         <p align="center">
