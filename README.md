@@ -80,17 +80,6 @@
         <p align="left"><strong>Next.js, Typescript, PostgreSQL, Tailwind, Fabric.js</strong> - B2B Product Configuator</p>
     </td>
     <td width="50%" valign="top" align="center">
-        <h3 align="center">Student Assignment Tracker</h3>
-          <br />
-        <a target="_blank" href="rennacarver/student-assignment-tracker">
-              <img src="https://github.com/user-attachments/assets/d6032f3b-2810-4192-a17b-c3b8a5d43eb5" width="50%"  alt="todo list app"/>
-          </a>
-            <br />
-            <p align="center">
-            <a align="center" href="https://github.com/rennacarver/student-assignment-tracker" target="_blank">Student Assignment Tracker</a>
-          </a>
-        </p>
-          <p align="left"><strong>Ruby on Rails, SQLite, Tailwind CSS</strong> - Student Assignment Tracker powered by Rails</p>
       </td>
   </tr>
 </table>
