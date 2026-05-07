@@ -23,7 +23,7 @@
           <p align="center">
             <a align="center" href="https://www.projectcarver.com" target="_blank">Project Carver Website</a>
           </p>
-        <p align="left"><strong>CSS3, HTML5, Javscript, Powerpoint</strong> - Blog, Tutoring, Freelance Webdev Services, Free Math Lessons, Animation Libraries, Worksheets and more...</p>
+        <p align="left"><strong>CSS3, HTML5, Javscript</strong> - Making math education more accessible through animation and interactivity...</p>
     </td>
       <td width="50%" valign="top" align="center">
           <h3 align="center">Related Rates Visualizer</h3>
