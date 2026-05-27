@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renna</h1>
 <h3 align="center">A fullstack developer from Los Angeles</h3>
 
-- 🌱 I’m currently learning **Next.js, Typescript, Fabric.js**
+- 🌱 I’m currently learning **Next.js, Typescript, Pixi.js, Zustand**
 
 - 👨‍💻 All of my projects are available at [projectcarver.com/portfolio](https://www.projectcarver.com/portfolio)
 
