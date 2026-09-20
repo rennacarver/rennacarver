@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [projectcarver.com/](https://www.projectcarver.com/)
 
-- 🚧 I'm currently working on the BioBlanks Studio V3
+- 🚧 I'm currently working on the Switxh app
 
 <h1 align="center">Projects</h1>
 
@@ -68,16 +68,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3 align="center">BioBlanks Builder V1</h3>
+      <h3 align="center">BioBlanks Studio V3</h3>
         <br />
         <a target="_blank" href="https://github.com/rennacarver/BioBlanks-Builder">
-          <img src="https://github.com/user-attachments/assets/2a5cc386-0fdc-4f92-a2c2-52fecf116fcf" width="50%"  alt="Reading List App"/>
+          <img src="https://github.com/user-attachments/assets/db86e6dd-5638-4080-b07e-a2dfe9b1bde4" width="50%"  alt="BioBlanks Studio V3"/>
         </a>
         <br />
         <p align="center">
             <a align="center" href="https://github.com/rennacarver/BioBlanks-Builder" target="_blank">BioBlanks Builder</a>
           </p>
-        <p align="left"><strong>Next.js, Typescript, PostgreSQL, Tailwind, Fabric.js</strong> - B2B Product Configuator</p>
+        <p align="left"><strong>Next.js, Typescript, PostgreSQL, Tailwind, Pixi.js, Zustand</strong> - B2B Product Configurator</p>
     </td>
     <td width="50%" valign="top" align="center">
       </td>
