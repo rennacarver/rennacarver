@@ -33,7 +33,7 @@
         </a>
         <br />
         <p align="center">
-            <a align="center" href="https://www.switxhlabs.com" target="_blank">BioBlanks Builder</a>
+            <a align="center" href="https://www.switxhlabs.com" target="_blank">SwitxhLabs</a>
           </p>
         <p align="left"><strong>Coming Soon</strong> </p>
     </td>
