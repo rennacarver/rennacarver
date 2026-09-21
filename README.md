@@ -26,7 +26,7 @@
         <p align="left"><strong>CSS3, HTML5, Javscript</strong> - Making math education more accessible through animation and interactivity...</p>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3 align="center">Switxh App</h3>
+      <h3 align="center">SwitxhLabs</h3>
         <br />
         <a target="_blank" href="https://www.switxhlabs.com">
           <img src="https://github.com/user-attachments/assets/8934020e-fda8-4110-b5f3-20ffdc85755f" width="50%"  alt="Switxh App"/>
@@ -35,7 +35,7 @@
         <p align="center">
             <a align="center" href="https://www.switxhlabs.com" target="_blank">SwitxhLabs</a>
           </p>
-        <p align="center"><strong>Coming Soon</strong> </p>
+        <p align="center"><strong>Venture Studio</strong> - Entertainment, Education, Software/AI</p>
     </td>
   </tr>
   <td width="50%" valign="top" align="center">
