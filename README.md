@@ -35,7 +35,7 @@
         <p align="center">
             <a align="center" href="https://www.switxhlabs.com" target="_blank">SwitxhLabs</a>
           </p>
-        <p align="left"><strong>Coming Soon</strong> </p>
+        <p align="center"><strong>Coming Soon</strong> </p>
     </td>
   </tr>
   <td width="50%" valign="top" align="center">
