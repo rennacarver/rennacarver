@@ -42,7 +42,7 @@
       <h3 align="center">BioBlanks Studio V3</h3>
         <br />
         <a target="_blank" href="https://github.com/rennacarver/BioBlanks-Builder">
-          <img src="https://github.com/user-attachments/assets/db86e6dd-5638-4080-b07e-a2dfe9b1bde4" width="50%"  alt="BioBlanks Studio V3"/>
+          <img src="https://github.com/user-attachments/assets/02c39a6d-f025-4075-8ab2-41a8a3479676" width="50%"  alt="BioBlanks Studio V3"/>
         </a>
         <br />
         <p align="center">
