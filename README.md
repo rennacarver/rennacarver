@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [projectcarver.com/](https://www.projectcarver.com/)
 
-- 🚧 I'm currently working on the Switxh app
+- 🚧 I'm currently working on SwitxhLabs, a venture studio at the intersection of entertainment and education
 
 <h1 align="center">Projects</h1>
 
