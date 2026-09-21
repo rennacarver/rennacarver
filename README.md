@@ -53,8 +53,6 @@
           </p>
         <p align="left"><strong>Next.js, Typescript, PostgreSQL, Tailwind, Pixi.js, Zustand</strong> - B2B Product Configurator</p>
     </td>
-    <td width="50%" valign="top" align="center">
-      </td>
       <td width="50%" valign="top" align="center">
           <h3 align="center">Related Rates Visualizer</h3>
             <br />
