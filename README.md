@@ -55,6 +55,19 @@
     </td>
     <td width="50%" valign="top" align="center">
       </td>
+      <td width="50%" valign="top" align="center">
+          <h3 align="center">Related Rates Visualizer</h3>
+            <br />
+          <a target="_blank" href="https://github.com/rennacarver/Cone-Related-Rates-Visualizer">
+                <img src="https://github.com/user-attachments/assets/44f63fa1-28bb-4c76-8874-f1b97c1aef2f" width="50%"  alt="Related Rates Visualizer App"/>
+            </a>
+              <br />
+              <p align="center">
+              <a align="center" href="https://github.com/rennacarver/Cone-Related-Rates-Visualizer" target="_blank">Related Rates Visualizer</a>
+            </a>
+          </p>
+            <p align="left"><strong>three.js, Desmos API, JS, HTML, CSS</strong> - Explore differential equations through a classic calculus problem — the filling of a cone.</p>
+        </td>
   <tr>
     <td width="50%" valign="top" align="center">
       <h3 align="center">Combinatorics Visualizer</h3>
@@ -80,21 +93,6 @@
             </a>
           </p>
             <p align="left"><strong>React, Express, Node, MongoDB</strong> - KnowNative is a web application for learners of traditional Chinese to improve their reading comprehension through studying native language texts.</p>
-        </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-          <h3 align="center">Related Rates Visualizer</h3>
-            <br />
-          <a target="_blank" href="https://github.com/rennacarver/Cone-Related-Rates-Visualizer">
-                <img src="https://github.com/user-attachments/assets/44f63fa1-28bb-4c76-8874-f1b97c1aef2f" width="50%"  alt="Related Rates Visualizer App"/>
-            </a>
-              <br />
-              <p align="center">
-              <a align="center" href="https://github.com/rennacarver/Cone-Related-Rates-Visualizer" target="_blank">Related Rates Visualizer</a>
-            </a>
-          </p>
-            <p align="left"><strong>three.js, Desmos API, JS, HTML, CSS</strong> - Explore differential equations through a classic calculus problem — the filling of a cone.</p>
         </td>
   </tr>
 </table>
