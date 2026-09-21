@@ -25,20 +25,22 @@
           </p>
         <p align="left"><strong>CSS3, HTML5, Javscript</strong> - Making math education more accessible through animation and interactivity...</p>
     </td>
-      <td width="50%" valign="top" align="center">
-          <h3 align="center">Related Rates Visualizer</h3>
-            <br />
-          <a target="_blank" href="https://github.com/rennacarver/Cone-Related-Rates-Visualizer">
-                <img src="https://github.com/user-attachments/assets/44f63fa1-28bb-4c76-8874-f1b97c1aef2f" width="50%"  alt="Related Rates Visualizer App"/>
-            </a>
-              <br />
-              <p align="center">
-              <a align="center" href="https://github.com/rennacarver/Cone-Related-Rates-Visualizer" target="_blank">Related Rates Visualizer</a>
-            </a>
-          </p>
-            <p align="left"><strong>three.js, Desmos API, JS, HTML, CSS</strong> - Explore differential equations through a classic calculus problem — the filling of a cone.</p>
-        </td>
+      
   </tr>
+  <td width="50%" valign="top" align="center">
+      <h3 align="center">BioBlanks Studio V3</h3>
+        <br />
+        <a target="_blank" href="https://github.com/rennacarver/BioBlanks-Builder">
+          <img src="https://github.com/user-attachments/assets/db86e6dd-5638-4080-b07e-a2dfe9b1bde4" width="50%"  alt="BioBlanks Studio V3"/>
+        </a>
+        <br />
+        <p align="center">
+            <a align="center" href="https://github.com/rennacarver/BioBlanks-Builder" target="_blank">BioBlanks Builder</a>
+          </p>
+        <p align="left"><strong>Next.js, Typescript, PostgreSQL, Tailwind, Pixi.js, Zustand</strong> - B2B Product Configurator</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      </td>
   <tr>
     <td width="50%" valign="top" align="center">
       <h3 align="center">Combinatorics Visualizer</h3>
@@ -68,18 +70,17 @@
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3 align="center">BioBlanks Studio V3</h3>
-        <br />
-        <a target="_blank" href="https://github.com/rennacarver/BioBlanks-Builder">
-          <img src="https://github.com/user-attachments/assets/db86e6dd-5638-4080-b07e-a2dfe9b1bde4" width="50%"  alt="BioBlanks Studio V3"/>
-        </a>
-        <br />
-        <p align="center">
-            <a align="center" href="https://github.com/rennacarver/BioBlanks-Builder" target="_blank">BioBlanks Builder</a>
+          <h3 align="center">Related Rates Visualizer</h3>
+            <br />
+          <a target="_blank" href="https://github.com/rennacarver/Cone-Related-Rates-Visualizer">
+                <img src="https://github.com/user-attachments/assets/44f63fa1-28bb-4c76-8874-f1b97c1aef2f" width="50%"  alt="Related Rates Visualizer App"/>
+            </a>
+              <br />
+              <p align="center">
+              <a align="center" href="https://github.com/rennacarver/Cone-Related-Rates-Visualizer" target="_blank">Related Rates Visualizer</a>
+            </a>
           </p>
-        <p align="left"><strong>Next.js, Typescript, PostgreSQL, Tailwind, Pixi.js, Zustand</strong> - B2B Product Configurator</p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      </td>
+            <p align="left"><strong>three.js, Desmos API, JS, HTML, CSS</strong> - Explore differential equations through a classic calculus problem — the filling of a cone.</p>
+        </td>
   </tr>
 </table>
