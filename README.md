@@ -8,7 +8,7 @@
 
 ### About me
 
-- 🚧 Building **[switxhlabs](https://www.switxhlabs.com)**, a venture studio at the intersection of entertainment and education
+- 🚧 Building **[switxhlabs](https://www.switxhlabs.com)**, a product studio at the intersection of entertainment and education
 - 🌱 Currently learning **Next.js, TypeScript, Pixi.js, Zustand**
 - 📝 I regularly write articles on [projectcarver.com](https://www.projectcarver.com)
 - 👨‍💻 All of my projects are at [projectcarver.com/portfolio](https://www.projectcarver.com/portfolio)
