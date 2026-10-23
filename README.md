@@ -25,7 +25,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://www.projectcarver.com">
-        <img src="Project%20Carver.gif" width="100%" alt="Project Carver" />
+        <img src="projectcarver-light.gif" width="100%" alt="Project Carver" />
       </a>
       <h3><a href="https://www.projectcarver.com">Project Carver</a></h3>
       <p>Making math education more accessible through animation and interactivity.</p>
@@ -35,7 +35,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://www.switxhlabs.com">
-        <img src="https://github.com/user-attachments/assets/8934020e-fda8-4110-b5f3-20ffdc85755f" width="100%" alt="switxhlabs" />
+        <img src="switxhlabs-light.gif" width="100%" alt="switxhlabs" />
       </a>
       <h3><a href="https://www.switxhlabs.com">switxhlabs</a></h3>
       <p>Product studio working across entertainment, education, and software/AI.</p>
