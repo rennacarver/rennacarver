@@ -38,18 +38,6 @@
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://www.projectcarver.com">
-        <img src="projectcarver-light.gif" width="100%" alt="Project Carver" />
-      </a>
-      <h3><a href="https://www.projectcarver.com">Project Carver</a></h3>
-      <p>Making math education more accessible through animation and interactivity.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <a href="https://www.switxhlabs.com">
         <img src="switxhlabs-light.gif" width="100%" alt="switxhlabs" />
       </a>
@@ -60,9 +48,21 @@
       <img src="https://img.shields.io/badge/Education-2f6f8f" alt="Education" />
       <img src="https://img.shields.io/badge/Software%2FAI-2f6f8f" alt="Software/AI" />
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.projectcarver.com">
+        <img src="projectcarver-light.gif" width="100%" alt="Project Carver" />
+      </a>
+      <h3><a href="https://www.projectcarver.com">Project Carver</a></h3>
+      <p>Making math education more accessible through animation and interactivity.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
     <td width="50%" valign="top">
       <a href="https://github.com/rennacarver/BioBlanks-Builder">
-        <img src="https://github.com/user-attachments/assets/02c39a6d-f025-4075-8ab2-41a8a3479676" width="100%" alt="BioBlanks Studio V3" />
+        <img src="bioblanks.gif" width="100%" alt="BioBlanks Studio V3" />
       </a>
       <h3><a href="https://github.com/rennacarver/BioBlanks-Builder">BioBlanks Studio V3</a></h3>
       <p>B2B product configurator.</p>
@@ -77,7 +77,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/rennacarver/Cone-Related-Rates-Visualizer">
-        <img src="https://github.com/user-attachments/assets/44f63fa1-28bb-4c76-8874-f1b97c1aef2f" width="100%" alt="Related Rates Visualizer" />
+        <img src="related-rates.gif" width="100%" alt="Related Rates Visualizer" />
       </a>
       <h3><a href="https://github.com/rennacarver/Cone-Related-Rates-Visualizer">Related Rates Visualizer</a></h3>
       <p>Explore differential equations through a classic calculus problem: the filling of a cone.</p>
@@ -89,7 +89,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/rennacarver/Combinations-Visualizer">
-        <img src="https://github.com/user-attachments/assets/eee1e92c-8824-4836-8ad0-2653aee079cd" width="100%" alt="Combinatorics Visualizer" />
+        <img src="combinatorics.gif" width="100%" alt="Combinatorics Visualizer" />
       </a>
       <h3><a href="https://github.com/rennacarver/Combinations-Visualizer">Combinatorics Visualizer</a></h3>
       <p>Generate a list of permutations for any given string.</p>
