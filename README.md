@@ -24,6 +24,20 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://www.sketxh.com">
+        <img src="sketxh-light.gif" width="100%" alt="sketxh" />
+      </a>
+      <h3><a href="https://www.sketxh.com">sketxh</a></h3>
+      <p>A next-generation digital notebook and whiteboard for remote learning, where animation lives alongside text and drawings, with built-in AI and real-time collaboration.</p>
+      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Pixi.js-E91E63" alt="Pixi.js" />
+      <img src="https://img.shields.io/badge/Zustand-443E38" alt="Zustand" />
+      <img src="https://img.shields.io/badge/IndexedDB-4479A1" alt="IndexedDB" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind" />
+    </td>
+    <td width="50%" valign="top">
       <a href="https://www.projectcarver.com">
         <img src="projectcarver-light.gif" width="100%" alt="Project Carver" />
       </a>
@@ -33,6 +47,8 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white" alt="CSS3" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://www.switxhlabs.com">
         <img src="switxhlabs-light.gif" width="100%" alt="switxhlabs" />
@@ -44,8 +60,6 @@
       <img src="https://img.shields.io/badge/Education-2f6f8f" alt="Education" />
       <img src="https://img.shields.io/badge/Software%2FAI-2f6f8f" alt="Software/AI" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/rennacarver/BioBlanks-Builder">
         <img src="https://github.com/user-attachments/assets/02c39a6d-f025-4075-8ab2-41a8a3479676" width="100%" alt="BioBlanks Studio V3" />
@@ -59,6 +73,8 @@
       <img src="https://img.shields.io/badge/Pixi.js-E91E63" alt="Pixi.js" />
       <img src="https://img.shields.io/badge/Zustand-443E38" alt="Zustand" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/rennacarver/Cone-Related-Rates-Visualizer">
         <img src="https://github.com/user-attachments/assets/44f63fa1-28bb-4c76-8874-f1b97c1aef2f" width="100%" alt="Related Rates Visualizer" />
@@ -71,8 +87,6 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white" alt="CSS3" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/rennacarver/Combinations-Visualizer">
         <img src="https://github.com/user-attachments/assets/eee1e92c-8824-4836-8ad0-2653aee079cd" width="100%" alt="Combinatorics Visualizer" />
@@ -82,17 +96,6 @@
       <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white" alt="CSS3" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/AbigailDawson/knownative">
-        <img src="https://github.com/user-attachments/assets/b17ad415-e0c4-4749-b725-8610684d95e2" width="100%" alt="KnowNative" />
-      </a>
-      <h3><a href="https://github.com/AbigailDawson/knownative">KnowNative</a></h3>
-      <p>A web app for learners of traditional Chinese to improve reading comprehension by studying native-language texts.</p>
-      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
     </td>
   </tr>
 </table>
